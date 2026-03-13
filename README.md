@@ -25,7 +25,6 @@ The implementation and analysis are contained in a single Jupyter notebook.
 
 ## How to run
 
-### Option A — Run locally
 1. Create an environment (recommended) and install dependencies:
 
 ```bash
